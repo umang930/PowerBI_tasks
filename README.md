@@ -85,13 +85,13 @@ The objective of this task is to build an interactive Financial Health Dashboard
 - `monthly-balance-sheet.xlsx` – Monthly Balance Sheet data
 - `monthly-indirect-cash-flow.xlsx` – Monthly Cash Flow data
 
-## 💡 Key Insights
+## Key Insights
 
 The dashboard provides a consolidated view of financial performance and helps identify trends in sales, profitability, assets, liabilities, equity, and cash flows.
 
 The forecasting analysis can support budgeting and future financial planning by providing an estimated view of upcoming sales and profit trends.
 
-## 🎓 Internship
+## Internship
 
 **Program:** CodeAlpha Internship  
 **Task:** Task 1 – Financial Health Dashboard  
