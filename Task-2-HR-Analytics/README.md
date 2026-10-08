@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was developed as part of my **CodeAlpha Data Analytics / Power BI Internship**.
+This project was developed as part of my **Power BI Internship**.
 
 The objective of this task is to build an interactive Human Resources Analytics Dashboard using Power BI to analyze employee attrition, workforce demographics, employee satisfaction, performance, recruitment metrics, and hiring trends.
 
@@ -79,6 +79,5 @@ The forecasting analysis helps support workforce planning by providing an estima
 
 ## Internship
 
-**Program:** CodeAlpha Internship  
-**Task:** Task 2 – Human Resources Analytics  
+**Task:** Human Resources Analytics  
 **Tool:** Microsoft Power BI
