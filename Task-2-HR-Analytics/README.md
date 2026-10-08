@@ -68,7 +68,7 @@ The objective of this task is to build an interactive Human Resources Analytics 
 
 ## Files Included
 
-- `CodeAlpha_HR_Analytics.pbix` – Complete Power BI HR Analytics dashboard
+- `Task2.pbix"` – Complete Power BI HR Analytics dashboard
 - `CodeAlpha_HR_Analytics_Dataset.csv` – Dataset used for analysis
 
 ## Key Insights
