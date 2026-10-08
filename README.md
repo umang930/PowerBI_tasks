@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was developed as part of my **CodeAlpha Data Analytics / Power BI Internship**.
+This project was developed as part of my **Power BI Internship**.
 
 The objective of this task is to build an interactive Financial Health Dashboard using Power BI to analyze financial performance, profitability, financial statements, cash flow, and future trends.
 
@@ -93,6 +93,5 @@ The forecasting analysis can support budgeting and future financial planning by 
 
 ## Internship
 
-**Program:** CodeAlpha Internship  
 **Task:** Task 1 – Financial Health Dashboard  
 **Tool:** Microsoft Power BI
