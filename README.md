@@ -93,5 +93,5 @@ The forecasting analysis can support budgeting and future financial planning by 
 
 ## Internship
 
-**Task:** Task 1 – Financial Health Dashboard  
+**Task:** Financial Health Dashboard  
 **Tool:** Microsoft Power BI
